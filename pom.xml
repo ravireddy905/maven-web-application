@@ -96,13 +96,16 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>admin</id>
-	      <name>admin</name>
+	      <id>nexus</id>
+	      <username>admin</username>
+              <password>Hemanthmn@1998</password>
 	      <url>http://3.111.28.120:8081/repository/maven-central/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>admin</id>
+	      <id>nexus</id>
+              <username>admin</username>
+              <password>Hemanthmn@1998</password>
 	      <name>admin</name>
 	      <url>http://3.111.28.120:8081/repository/maven-central/</url>
 	    </snapshotRepository>
