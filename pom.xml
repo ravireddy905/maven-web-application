@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>HemanthdkumarMN-devOps Snapshot Nexus Repository</name>
-	      <url>http://3.111.28.120:8081/repository/nuget.org-proxy/index.json</url>
+	      <url>http://3.111.28.120:8081/repository/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
